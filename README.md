@@ -16,4 +16,4 @@ Limitation:
 The selected time period includes pandemic period, which might have an effect on the results.
 
 ### Data processing and analysis
-Link: 
+Link: https://github.com/yang19n/Case-Study-Shared-bike-usage/blob/main/case_study_shared_bike_update.ipynb
