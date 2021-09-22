@@ -10,6 +10,7 @@ Python(pandas, numpy, statsmodels, datetime, matplotlib, seaborn)
 Tableau
 ### Dataset description and selection
 The dataset is publicly available on (https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 The dateset "202008-divvy-tripdata.csv","202009-divvy-tripdata.csv","202010-divvy-tripdata.csv", "202011-divvy-tripdata.csv","202012-divvy-tripdata.csv","202101-divvy-tripdata.csv","202102-divvy-tripdata.csv","202103-divvy-tripdata.csv","202104-divvy-tripdata.csv","202105-divvy-tripdata.csv","202106-divvy-tripdata.csv","202107-divvy-tripdata.csv" were selected, including the most updated 1-year data from August.2020 to July.2021.
 
 Limitation:
