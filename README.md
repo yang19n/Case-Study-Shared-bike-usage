@@ -18,3 +18,5 @@ The selected time period includes pandemic period, which might have an effect on
 
 ### Data processing and analysis
 Link: https://github.com/yang19n/Case-Study-Shared-bike-usage/blob/main/case_study_shared_bike_update.ipynb
+### Data visualization with dashboard
+Link: https://public.tableau.com/app/profile/yang3781/viz/sharedbikeanalysis/sharedbikeanalysis?publish=yes
